@@ -1,0 +1,5053 @@
+{
+  "total_entries": 30,
+  "entries_with_repetition": 27,
+  "correct_answers": 8,
+  "incorrect_answers": 22,
+  "repetition_by_correctness": {
+    "correct_with_repetition": 6,
+    "incorrect_with_repetition": 21
+  },
+  "analysis_settings": {
+    "min_length": 30,
+    "min_occurrences": 5,
+    "decompose": false,
+    "normalize": true
+  },
+  "entries": [
+    {
+      "entry_index": 0,
+      "expected_int": 204,
+      "response_int": 204,
+      "is_correct": true,
+      "text_length": 23861,
+      "has_repetition": false,
+      "patterns_found": 0
+    },
+    {
+      "entry_index": 1,
+      "expected_int": 113,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 42888,
+      "has_repetition": true,
+      "patterns_found": 8,
+      "most_frequent_pattern": {
+        "text": "\\frac{14}{1089}(1936-11000t+15625t^2)",
+        "length": 37,
+        "occurrences": 9,
+        "positions": [
+          13022,
+          13166,
+          13589,
+          15602,
+          16604,
+          19555,
+          20667,
+          23397,
+          23556
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "\\frac{14}{1089}(1936-11000t+15625t^2)",
+          "length": 37,
+          "occurrences": 9,
+          "positions": [
+            13022,
+            13166,
+            13589,
+            15602,
+            16604,
+            19555,
+            20667,
+            23397,
+            23556
+          ]
+        },
+        {
+          "text": "}(44-125t)^2-\\frac{3}{2}(2+25t)-\\frac{1}{2}(44-125t)",
+          "length": 52,
+          "occurrences": 7,
+          "positions": [
+            11906,
+            12014,
+            12809,
+            16285,
+            17474,
+            18717,
+            19390
+          ]
+        },
+        {
+          "text": "\\frac{(2+25t)^2}{36}+\\frac{14}{",
+          "length": 31,
+          "occurrences": 7,
+          "positions": [
+            11871,
+            11979,
+            12774,
+            16250,
+            17439,
+            18682,
+            19355
+          ]
+        },
+        {
+          "text": "1089}(44-125t)^2-\\frac{3}{2}(2+25t)-\\frac{1}{2}(44-125t)",
+          "length": 56,
+          "occurrences": 6,
+          "positions": [
+            12010,
+            12805,
+            16281,
+            17470,
+            18713,
+            19386
+          ]
+        },
+        {
+          "text": "xx0+yy0+(d/2)(x+x0)+(e/2)(y+y0)+f=",
+          "length": 34,
+          "occurrences": 6,
+          "positions": [
+            3300,
+            5857,
+            6266,
+            6364,
+            6546,
+            6687
+          ]
+        },
+        {
+          "text": "-\\frac{3}{2}(2+25t)-\\frac{1}{2}(44-125t)=0",
+          "length": 42,
+          "occurrences": 5,
+          "positions": [
+            11918,
+            12026,
+            12821,
+            13059,
+            16297
+          ]
+        },
+        {
+          "text": "xx0+yy0+(d/2)(x+x0)+(e/2)(y+y0)+f=0",
+          "length": 35,
+          "occurrences": 5,
+          "positions": [
+            3300,
+            5857,
+            6266,
+            6364,
+            6687
+          ]
+        },
+        {
+          "text": "dividenumeratoranddenominatorby",
+          "length": 31,
+          "occurrences": 5,
+          "positions": [
+            8811,
+            9140,
+            22579,
+            27459,
+            29562
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 2,
+      "expected_int": 371,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 62919,
+      "has_repetition": true,
+      "patterns_found": 5,
+      "most_frequent_pattern": {
+        "text": "fortheexistentialcondition,weneedthat",
+        "length": 37,
+        "occurrences": 7,
+        "positions": [
+          16477,
+          34595,
+          37777,
+          38719,
+          42363,
+          52536,
+          60204
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "fortheexistentialcondition,weneedthat",
+          "length": 37,
+          "occurrences": 7,
+          "positions": [
+            16477,
+            34595,
+            37777,
+            38719,
+            42363,
+            52536,
+            60204
+          ]
+        },
+        {
+          "text": "thereexistsarotationrsuchthatr(b_old)",
+          "length": 37,
+          "occurrences": 6,
+          "positions": [
+            4513,
+            6168,
+            7460,
+            12121,
+            13624,
+            35934
+          ]
+        },
+        {
+          "text": "atpositionsthatwereoriginallyred",
+          "length": 32,
+          "occurrences": 6,
+          "positions": [
+            2123,
+            2676,
+            3454,
+            9292,
+            10354,
+            11214
+          ]
+        },
+        {
+          "text": "thatthereexistsarotationrsuchthat",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            2359,
+            4509,
+            12117,
+            13620,
+            35930
+          ]
+        },
+        {
+          "text": "positionsthatwereoriginallyred.",
+          "length": 31,
+          "occurrences": 5,
+          "positions": [
+            195,
+            2125,
+            2678,
+            3456,
+            10356
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 3,
+      "expected_int": 385,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 44501,
+      "has_repetition": true,
+      "patterns_found": 4,
+      "most_frequent_pattern": {
+        "text": "x=h(|cos(3πy)|)andy=h(|sin(2πx)|)",
+        "length": 33,
+        "occurrences": 6,
+        "positions": [
+          28267,
+          31837,
+          35453,
+          41022,
+          41203,
+          43744
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "x=h(|cos(3πy)|)andy=h(|sin(2πx)|)",
+          "length": 33,
+          "occurrences": 6,
+          "positions": [
+            28267,
+            31837,
+            35453,
+            41022,
+            41203,
+            43744
+          ]
+        },
+        {
+          "text": "|sin(2πx)|isperiodicwithperiod1",
+          "length": 31,
+          "occurrences": 6,
+          "positions": [
+            2471,
+            10048,
+            21858,
+            24234,
+            29673,
+            40108
+          ]
+        },
+        {
+          "text": "now,|sin(2πx)|isperiodicwithperiod",
+          "length": 34,
+          "occurrences": 5,
+          "positions": [
+            2467,
+            21854,
+            24230,
+            29669,
+            35312
+          ]
+        },
+        {
+          "text": "|sin(2πx)|isperiodicwithperiod1/2",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            2471,
+            10048,
+            21858,
+            24234,
+            29673
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 4,
+      "expected_int": 110,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 41142,
+      "has_repetition": false,
+      "patterns_found": 0
+    },
+    {
+      "entry_index": 5,
+      "expected_int": 104,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 50153,
+      "has_repetition": true,
+      "patterns_found": 5,
+      "most_frequent_pattern": {
+        "text": "(p^2+q^2-r^2)(p^2+r^2-q^2)(q^2+r^2-p^2)",
+        "length": 39,
+        "occurrences": 8,
+        "positions": [
+          5233,
+          8821,
+          9344,
+          9599,
+          12382,
+          13075,
+          27526,
+          28383
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "(p^2+q^2-r^2)(p^2+r^2-q^2)(q^2+r^2-p^2)",
+          "length": 39,
+          "occurrences": 8,
+          "positions": [
+            5233,
+            8821,
+            9344,
+            9599,
+            12382,
+            13075,
+            27526,
+            28383
+          ]
+        },
+        {
+          "text": "v=\\frac{\\sqrt{(p^2+q^2-r^2)(p^2+r^2-q^2)(q^2+r^2-p^2)}}{",
+          "length": 56,
+          "occurrences": 5,
+          "positions": [
+            5219,
+            8807,
+            9330,
+            9585,
+            28369
+          ]
+        },
+        {
+          "text": "a(4,2.5,2),b(4,-2.5,-2),c(-4,2.5,-2)",
+          "length": 36,
+          "occurrences": 5,
+          "positions": [
+            40552,
+            43575,
+            46885,
+            49124,
+            49753
+          ]
+        },
+        {
+          "text": "withthreepairsofequaloppositeedges",
+          "length": 34,
+          "occurrences": 5,
+          "positions": [
+            3344,
+            4037,
+            5836,
+            6309,
+            28774
+          ]
+        },
+        {
+          "text": "(x+y+z)(x+y-z)(x+z-y)(y+z-x)no",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            14982,
+            15234,
+            15633,
+            16119,
+            16853
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 6,
+      "expected_int": 721,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 42803,
+      "has_repetition": true,
+      "patterns_found": 2,
+      "most_frequent_pattern": {
+        "text": "f(p)=p^4(27-p)(27-2p)-529p^3-529^2",
+        "length": 34,
+        "occurrences": 8,
+        "positions": [
+          26357,
+          36647,
+          36694,
+          37558,
+          40112,
+          40600,
+          41665,
+          42438
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "f(p)=p^4(27-p)(27-2p)-529p^3-529^2",
+          "length": 34,
+          "occurrences": 8,
+          "positions": [
+            26357,
+            36647,
+            36694,
+            37558,
+            40112,
+            40600,
+            41665,
+            42438
+          ]
+        },
+        {
+          "text": "\\frac{v(27-v)(27-2v)}{529}-\\frac{529}{v^3}",
+          "length": 42,
+          "occurrences": 7,
+          "positions": [
+            14049,
+            14108,
+            14221,
+            14329,
+            14376,
+            15856,
+            15917
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 7,
+      "expected_int": 25,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 42060,
+      "has_repetition": true,
+      "patterns_found": 2,
+      "most_frequent_pattern": {
+        "text": "y^{10}=(x^{10/x})^{10}=x^{100/x}",
+        "length": 32,
+        "occurrences": 6,
+        "positions": [
+          7580,
+          7960,
+          9057,
+          11075,
+          18061,
+          35925
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "y^{10}=(x^{10/x})^{10}=x^{100/x}",
+          "length": 32,
+          "occurrences": 6,
+          "positions": [
+            7580,
+            7960,
+            9057,
+            11075,
+            18061,
+            35925
+          ]
+        },
+        {
+          "text": "x^{4y}=y^{10},andy=x^{10/x},so",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            7504,
+            8998,
+            9285,
+            11664,
+            18351
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 8,
+      "expected_int": 809,
+      "response_int": 809,
+      "is_correct": true,
+      "text_length": 41223,
+      "has_repetition": true,
+      "patterns_found": 11,
+      "most_frequent_pattern": {
+        "text": "islforbob,sobobloses,alicewins.",
+        "length": 31,
+        "occurrences": 13,
+        "positions": [
+          3171,
+          3227,
+          3447,
+          3677,
+          4352,
+          4410,
+          4651,
+          4848,
+          6109,
+          6163,
+          7443,
+          7838,
+          7890
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "islforbob,sobobloses,alicewins.",
+          "length": 31,
+          "occurrences": 13,
+          "positions": [
+            3171,
+            3227,
+            3447,
+            3677,
+            4352,
+            4410,
+            4651,
+            4848,
+            6109,
+            6163,
+            7443,
+            7838,
+            7890
+          ]
+        },
+        {
+          "text": ".aliceremoves1or4.ifremove1,leaves",
+          "length": 34,
+          "occurrences": 11,
+          "positions": [
+            3282,
+            3406,
+            3593,
+            3747,
+            4465,
+            4610,
+            4764,
+            4918,
+            6068,
+            6208,
+            7402
+          ]
+        },
+        {
+          "text": ".aliceremoves1or4.ifremove1,leaves1",
+          "length": 35,
+          "occurrences": 8,
+          "positions": [
+            3282,
+            3406,
+            3593,
+            3747,
+            4465,
+            4610,
+            4764,
+            4918
+          ]
+        },
+        {
+          "text": "iswforbob,sobobwins.ifremove4,leaves",
+          "length": 36,
+          "occurrences": 7,
+          "positions": [
+            3323,
+            3634,
+            3788,
+            4506,
+            4805,
+            4959,
+            6249
+          ]
+        },
+        {
+          "text": "forbob,sobobloses,alicewins.so",
+          "length": 30,
+          "occurrences": 7,
+          "positions": [
+            2053,
+            2731,
+            3230,
+            3680,
+            4413,
+            4851,
+            6166
+          ]
+        },
+        {
+          "text": ".aliceremoves1or4.ifsheremoves1,leaves",
+          "length": 38,
+          "occurrences": 6,
+          "positions": [
+            2222,
+            2400,
+            2629,
+            2859,
+            3126,
+            4307
+          ]
+        },
+        {
+          "text": "forbob,sobobloses,alicewins.if",
+          "length": 30,
+          "occurrences": 6,
+          "positions": [
+            2451,
+            3174,
+            3450,
+            4355,
+            4654,
+            6112
+          ]
+        },
+        {
+          "text": "iswinningforbob,sobobwins.ifsheremoves4,leaves",
+          "length": 46,
+          "occurrences": 5,
+          "positions": [
+            1561,
+            1748,
+            2265,
+            2672,
+            2902
+          ]
+        },
+        {
+          "text": "islforbob,sobobloses,alicewins.if",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            3171,
+            3447,
+            4352,
+            4651,
+            6109
+          ]
+        },
+        {
+          "text": "islforbob,sobobloses,alicewins.so",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            3227,
+            3677,
+            4410,
+            4848,
+            6163
+          ]
+        },
+        {
+          "text": "iswforbob,sobobwins.sobobwins,",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            3364,
+            3831,
+            4549,
+            5002,
+            7751
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 9,
+      "expected_int": 116,
+      "response_int": 116,
+      "is_correct": true,
+      "text_length": 69666,
+      "has_repetition": true,
+      "patterns_found": 76,
+      "most_frequent_pattern": {
+        "text": "were2oftherandomlychosennumbers",
+        "length": 31,
+        "occurrences": 47,
+        "positions": [
+          5704,
+          10698,
+          11129,
+          11276,
+          11358,
+          11581,
+          11810,
+          12180,
+          12810,
+          13397,
+          13874,
+          18120,
+          18763,
+          18823,
+          19089,
+          19524,
+          22082,
+          22932,
+          23851,
+          24127,
+          24759,
+          25119,
+          25805,
+          26873,
+          28091,
+          28848,
+          28999,
+          29776,
+          30228,
+          31851,
+          34287,
+          35756,
+          36230,
+          37305,
+          38431,
+          39281,
+          42126,
+          43821,
+          44534,
+          49575,
+          52784,
+          53878,
+          56490,
+          61806,
+          64081,
+          65194,
+          67642
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "were2oftherandomlychosennumbers",
+          "length": 31,
+          "occurrences": 47,
+          "positions": [
+            5704,
+            10698,
+            11129,
+            11276,
+            11358,
+            11581,
+            11810,
+            12180,
+            12810,
+            13397,
+            13874,
+            18120,
+            18763,
+            18823,
+            19089,
+            19524,
+            22082,
+            22932,
+            23851,
+            24127,
+            24759,
+            25119,
+            25805,
+            26873,
+            28091,
+            28848,
+            28999,
+            29776,
+            30228,
+            31851,
+            34287,
+            35756,
+            36230,
+            37305,
+            38431,
+            39281,
+            42126,
+            43821,
+            44534,
+            49575,
+            52784,
+            53878,
+            56490,
+            61806,
+            64081,
+            65194,
+            67642
+          ]
+        },
+        {
+          "text": "\"atleasttwoofhernumberswere2oftherandomlychosennumbers\"",
+          "length": 55,
+          "occurrences": 21,
+          "positions": [
+            11335,
+            11787,
+            13374,
+            13851,
+            18097,
+            19066,
+            19501,
+            22909,
+            23828,
+            28068,
+            28825,
+            29753,
+            35733,
+            36207,
+            38408,
+            43798,
+            49552,
+            52761,
+            56467,
+            61783,
+            67619
+          ]
+        },
+        {
+          "text": "shewinsaprizeifatleasttwoofhernumbers",
+          "length": 37,
+          "occurrences": 21,
+          "positions": [
+            142,
+            5667,
+            10661,
+            11239,
+            22045,
+            24722,
+            25082,
+            26836,
+            30191,
+            31814,
+            34250,
+            37268,
+            42089,
+            44497,
+            46516,
+            49330,
+            53841,
+            63510,
+            64044,
+            65157,
+            66250
+          ]
+        },
+        {
+          "text": "perhaps\"2oftherandomlychosennumbers\"",
+          "length": 36,
+          "occurrences": 16,
+          "positions": [
+            18152,
+            19628,
+            23971,
+            26046,
+            28880,
+            29483,
+            36263,
+            37338,
+            38464,
+            42310,
+            44566,
+            52977,
+            56523,
+            56616,
+            61839,
+            65286
+          ]
+        },
+        {
+          "text": "\"2oftherandomlychosennumbers\"m",
+          "length": 30,
+          "occurrences": 16,
+          "positions": [
+            18159,
+            19635,
+            19916,
+            20415,
+            26053,
+            28887,
+            36270,
+            37345,
+            38471,
+            44573,
+            44685,
+            52984,
+            56530,
+            57981,
+            61846,
+            65293
+          ]
+        },
+        {
+          "text": "\"2oftherandomlychosennumbers\"means",
+          "length": 34,
+          "occurrences": 14,
+          "positions": [
+            18159,
+            19635,
+            19916,
+            26053,
+            28887,
+            36270,
+            37345,
+            38471,
+            44573,
+            52984,
+            56530,
+            57981,
+            61846,
+            65293
+          ]
+        },
+        {
+          "text": "theconditionalprobabilityisgiven",
+          "length": 32,
+          "occurrences": 14,
+          "positions": [
+            12632,
+            31980,
+            33656,
+            40117,
+            41391,
+            46608,
+            49437,
+            50307,
+            51970,
+            55266,
+            60135,
+            63599,
+            65499,
+            66339
+          ]
+        },
+        {
+          "text": "atleasttwoofhernumbersarecorrect,",
+          "length": 33,
+          "occurrences": 13,
+          "positions": [
+            11954,
+            12976,
+            13464,
+            13949,
+            24389,
+            25468,
+            29375,
+            36372,
+            38608,
+            39562,
+            46531,
+            63525,
+            66265
+          ]
+        },
+        {
+          "text": "perhaps\"2oftherandomlychosennumbers\"meansthatthe",
+          "length": 48,
+          "occurrences": 12,
+          "positions": [
+            18152,
+            19628,
+            26046,
+            28880,
+            36263,
+            37338,
+            38464,
+            44566,
+            52977,
+            56523,
+            61839,
+            65286
+          ]
+        },
+        {
+          "text": "\"shewinsaprizeifatleasttwoofhernumberswere2oftherandomlychosennumbers\"",
+          "length": 70,
+          "occurrences": 11,
+          "positions": [
+            5666,
+            11238,
+            24721,
+            25081,
+            26835,
+            30190,
+            31813,
+            37267,
+            42088,
+            44496,
+            53840
+          ]
+        },
+        {
+          "text": "\"allfourofhernumbersweretherandomlychosennumbers\"",
+          "length": 49,
+          "occurrences": 11,
+          "positions": [
+            19304,
+            25698,
+            27984,
+            29681,
+            36042,
+            38022,
+            38227,
+            50012,
+            52431,
+            61604,
+            66675
+          ]
+        },
+        {
+          "text": "andtheconditionalprobabilityis",
+          "length": 30,
+          "occurrences": 11,
+          "positions": [
+            36975,
+            46605,
+            50304,
+            51967,
+            58491,
+            60678,
+            60870,
+            63596,
+            64268,
+            65496,
+            66336
+          ]
+        },
+        {
+          "text": "ofhernumbersweretherandomlychosennumbers\",",
+          "length": 42,
+          "occurrences": 10,
+          "positions": [
+            19312,
+            25706,
+            27992,
+            29689,
+            29867,
+            44916,
+            45188,
+            52439,
+            62079,
+            66683
+          ]
+        },
+        {
+          "text": "meansthatatleasttwoofhernumbersare",
+          "length": 34,
+          "occurrences": 9,
+          "positions": [
+            481,
+            11398,
+            11945,
+            13639,
+            13940,
+            20149,
+            29914,
+            36363,
+            38599
+          ]
+        },
+        {
+          "text": "conditionalprobabilityis1/115.",
+          "length": 30,
+          "occurrences": 9,
+          "positions": [
+            9803,
+            17813,
+            24625,
+            27826,
+            37888,
+            46460,
+            60876,
+            63364,
+            65726
+          ]
+        },
+        {
+          "text": "intheconditionalprobability,we",
+          "length": 30,
+          "occurrences": 9,
+          "positions": [
+            2559,
+            5859,
+            20990,
+            30555,
+            44215,
+            46967,
+            49088,
+            58305,
+            59060
+          ]
+        },
+        {
+          "text": ":\"atleasttwoofhernumberswere2oftherandomlychosennumbers\"",
+          "length": 56,
+          "occurrences": 8,
+          "positions": [
+            13373,
+            13850,
+            18096,
+            22908,
+            23827,
+            28824,
+            52760,
+            56466
+          ]
+        },
+        {
+          "text": "s\"atleasttwoofhernumberswere2oftherandomlychosennumbers",
+          "length": 55,
+          "occurrences": 8,
+          "positions": [
+            11105,
+            12786,
+            19065,
+            19500,
+            35732,
+            43797,
+            49551,
+            67618
+          ]
+        },
+        {
+          "text": "\"were2oftherandomlychosennumbers\"",
+          "length": 33,
+          "occurrences": 8,
+          "positions": [
+            11580,
+            12179,
+            18762,
+            18822,
+            24126,
+            25804,
+            28998,
+            39280
+          ]
+        },
+        {
+          "text": ".butintheconditionalprobability,",
+          "length": 32,
+          "occurrences": 8,
+          "positions": [
+            2555,
+            14418,
+            20986,
+            21632,
+            22657,
+            27130,
+            48071,
+            57830
+          ]
+        },
+        {
+          "text": ":\"shewinsaprizeifatleasttwoofhernumberswere2oftherandomlychosennumbers",
+          "length": 70,
+          "occurrences": 7,
+          "positions": [
+            5665,
+            11237,
+            22043,
+            25080,
+            34248,
+            44495,
+            64042
+          ]
+        },
+        {
+          "text": "\"2oftherandomlychosennumbers\"referstoth",
+          "length": 39,
+          "occurrences": 7,
+          "positions": [
+            13153,
+            18456,
+            23978,
+            29490,
+            39459,
+            42317,
+            56623
+          ]
+        },
+        {
+          "text": "itmeansthatatleasttwoofhernumbersare",
+          "length": 36,
+          "occurrences": 7,
+          "positions": [
+            11396,
+            11943,
+            13637,
+            13938,
+            20147,
+            36361,
+            38597
+          ]
+        },
+        {
+          "text": ".then,theconditionalprobabilityis",
+          "length": 33,
+          "occurrences": 7,
+          "positions": [
+            3323,
+            33525,
+            36803,
+            53458,
+            54224,
+            57164,
+            59530
+          ]
+        },
+        {
+          "text": ".now,theconditionalprobabilityis",
+          "length": 32,
+          "occurrences": 7,
+          "positions": [
+            6067,
+            12627,
+            16689,
+            17805,
+            23303,
+            31975,
+            55836
+          ]
+        },
+        {
+          "text": "theconditionalprobabilityis1/115",
+          "length": 32,
+          "occurrences": 7,
+          "positions": [
+            17810,
+            24622,
+            27823,
+            37885,
+            40378,
+            60873,
+            68268
+          ]
+        },
+        {
+          "text": "tintersectainatleasttwoelements",
+          "length": 31,
+          "occurrences": 7,
+          "positions": [
+            2382,
+            2825,
+            3897,
+            5405,
+            7104,
+            7603,
+            9049
+          ]
+        },
+        {
+          "text": ":\"allfourofhernumbersweretherandomlychosennumbers\"",
+          "length": 50,
+          "occurrences": 6,
+          "positions": [
+            19303,
+            25697,
+            29680,
+            36041,
+            38226,
+            61603
+          ]
+        },
+        {
+          "text": "\"allfourofhernumbersweretherandomlychosennumbers\",",
+          "length": 50,
+          "occurrences": 6,
+          "positions": [
+            19304,
+            25698,
+            27984,
+            29681,
+            52431,
+            66675
+          ]
+        },
+        {
+          "text": "ofhernumbersweretherandomlychosennumbers\",which",
+          "length": 47,
+          "occurrences": 6,
+          "positions": [
+            19312,
+            25706,
+            27992,
+            29689,
+            29867,
+            44916
+          ]
+        },
+        {
+          "text": ",andtheconditionalprobabilityisgiventhatshe",
+          "length": 43,
+          "occurrences": 6,
+          "positions": [
+            46604,
+            50303,
+            51966,
+            63595,
+            65495,
+            66335
+          ]
+        },
+        {
+          "text": ".perhapsitmeansthatatleasttwoofhernumbers",
+          "length": 41,
+          "occurrences": 6,
+          "positions": [
+            11488,
+            11935,
+            13629,
+            20139,
+            36353,
+            38589
+          ]
+        },
+        {
+          "text": "thatatleasttwoofhernumbersarecorrect",
+          "length": 36,
+          "occurrences": 6,
+          "positions": [
+            11950,
+            12972,
+            13945,
+            19166,
+            36368,
+            38604
+          ]
+        },
+        {
+          "text": "ifatleasttwoofhernumbersarecorrect,",
+          "length": 35,
+          "occurrences": 6,
+          "positions": [
+            25466,
+            29373,
+            39560,
+            46529,
+            63523,
+            66263
+          ]
+        },
+        {
+          "text": "p(grandprize|prize)=p(|a∩b|=4||a∩",
+          "length": 33,
+          "occurrences": 6,
+          "positions": [
+            31108,
+            32752,
+            41240,
+            48417,
+            62383,
+            64298
+          ]
+        },
+        {
+          "text": "thedrawnsetcontainsallhernumbers,",
+          "length": 33,
+          "occurrences": 6,
+          "positions": [
+            36105,
+            50070,
+            51564,
+            61667,
+            62970,
+            64952
+          ]
+        },
+        {
+          "text": ",butintheconditionalprobability,",
+          "length": 32,
+          "occurrences": 6,
+          "positions": [
+            5855,
+            30551,
+            45273,
+            46963,
+            49084,
+            58301
+          ]
+        },
+        {
+          "text": ".anotherinterpretation:perhaps\"",
+          "length": 31,
+          "occurrences": 6,
+          "positions": [
+            35703,
+            39250,
+            43768,
+            49522,
+            57673,
+            62863
+          ]
+        },
+        {
+          "text": "thatthereareatleasttwonumbersin",
+          "length": 31,
+          "occurrences": 6,
+          "positions": [
+            35793,
+            42163,
+            43858,
+            49612,
+            52825,
+            67679
+          ]
+        },
+        {
+          "text": "needtoconsiderthatthedrawnsetis",
+          "length": 31,
+          "occurrences": 6,
+          "positions": [
+            19854,
+            26994,
+            35885,
+            39375,
+            56935,
+            58335
+          ]
+        },
+        {
+          "text": "theprizeiswonifatleasttwomatch,",
+          "length": 31,
+          "occurrences": 6,
+          "positions": [
+            26336,
+            30500,
+            58271,
+            58460,
+            60616,
+            62493
+          ]
+        },
+        {
+          "text": "4numbersarerandomlychosenfroms",
+          "length": 30,
+          "occurrences": 6,
+          "positions": [
+            108,
+            10630,
+            16966,
+            48643,
+            60997,
+            65126
+          ]
+        },
+        {
+          "text": "theconditionalprobabilityisthe",
+          "length": 30,
+          "occurrences": 6,
+          "positions": [
+            3001,
+            4121,
+            23308,
+            28217,
+            41945,
+            68038
+          ]
+        },
+        {
+          "text": "referstothefactthatthedrawnset",
+          "length": 30,
+          "occurrences": 6,
+          "positions": [
+            13182,
+            18485,
+            24007,
+            29519,
+            42346,
+            56652
+          ]
+        },
+        {
+          "text": "twonumbersinthedrawnsetthatare",
+          "length": 30,
+          "occurrences": 6,
+          "positions": [
+            22985,
+            26922,
+            42182,
+            43877,
+            49631,
+            67698
+          ]
+        },
+        {
+          "text": ",sotheconditionalprobabilityis",
+          "length": 30,
+          "occurrences": 6,
+          "positions": [
+            28214,
+            31566,
+            37882,
+            38803,
+            41942,
+            68265
+          ]
+        },
+        {
+          "text": "\"winsthegrandprizeifallfourofhernumbersweretherandomlychosennumbers",
+          "length": 67,
+          "occurrences": 5,
+          "positions": [
+            5740,
+            37179,
+            51487,
+            58645,
+            62893
+          ]
+        },
+        {
+          "text": "winsthegrandprizeifallfourofhernumbersweretherandomlychosennumbers.",
+          "length": 67,
+          "occurrences": 5,
+          "positions": [
+            5741,
+            10733,
+            22117,
+            34322,
+            64116
+          ]
+        },
+        {
+          "text": ",\"atleasttwoofhernumberswere2oftherandomlychosennumbers\"",
+          "length": 56,
+          "occurrences": 5,
+          "positions": [
+            28067,
+            29752,
+            36206,
+            38407,
+            61782
+          ]
+        },
+        {
+          "text": "ifallfourofhernumbersweretherandomlychosennumbers\"",
+          "length": 50,
+          "occurrences": 5,
+          "positions": [
+            37197,
+            45179,
+            51505,
+            58663,
+            62911
+          ]
+        },
+        {
+          "text": "thenumberof4-elementsubsetsthatintersectain",
+          "length": 43,
+          "occurrences": 5,
+          "positions": [
+            2352,
+            3867,
+            7074,
+            7573,
+            7867
+          ]
+        },
+        {
+          "text": "meansthatthedrawnsetcontainsallhernumbers,",
+          "length": 42,
+          "occurrences": 5,
+          "positions": [
+            36096,
+            50061,
+            51555,
+            61658,
+            62961
+          ]
+        },
+        {
+          "text": "twoofhernumbersmatchtwoofthedrawnnumbers",
+          "length": 40,
+          "occurrences": 5,
+          "positions": [
+            11514,
+            14806,
+            33271,
+            36685,
+            64507
+          ]
+        },
+        {
+          "text": ".ithinkineedtoconsiderthatthedrawnsetis",
+          "length": 39,
+          "occurrences": 5,
+          "positions": [
+            19846,
+            26986,
+            35877,
+            39367,
+            56927
+          ]
+        },
+        {
+          "text": "thatatleasttwoofhernumbersarecorrect,",
+          "length": 37,
+          "occurrences": 5,
+          "positions": [
+            11950,
+            12972,
+            13945,
+            36368,
+            38604
+          ]
+        },
+        {
+          "text": "s,theprizeisformatchingacertainnumber",
+          "length": 37,
+          "occurrences": 5,
+          "positions": [
+            16423,
+            36484,
+            42487,
+            50233,
+            65412
+          ]
+        },
+        {
+          "text": "theprizeiswonifatleasttwoofhernumbers",
+          "length": 37,
+          "occurrences": 5,
+          "positions": [
+            18589,
+            19757,
+            26198,
+            29215,
+            39547
+          ]
+        },
+        {
+          "text": ".perhaps\"2oftherandomlychosennumbers\"",
+          "length": 37,
+          "occurrences": 5,
+          "positions": [
+            19627,
+            23970,
+            52976,
+            56522,
+            65285
+          ]
+        },
+        {
+          "text": "theconditionalprobabilityis1/115.but",
+          "length": 36,
+          "occurrences": 5,
+          "positions": [
+            17810,
+            24622,
+            27823,
+            37885,
+            60873
+          ]
+        },
+        {
+          "text": "lotteries,ifyoumatchall,youwingrand,",
+          "length": 36,
+          "occurrences": 5,
+          "positions": [
+            27266,
+            34089,
+            53305,
+            54063,
+            63856
+          ]
+        },
+        {
+          "text": "meansthatthereareatleasttwonumbersin",
+          "length": 36,
+          "occurrences": 5,
+          "positions": [
+            35788,
+            42158,
+            43853,
+            49607,
+            67674
+          ]
+        },
+        {
+          "text": "giventhatshewonaprize,i.e.,|a∩b|≥2,",
+          "length": 35,
+          "occurrences": 5,
+          "positions": [
+            2592,
+            6437,
+            12659,
+            19369,
+            32007
+          ]
+        },
+        {
+          "text": "thatintersectainatleasttwoelements.",
+          "length": 35,
+          "occurrences": 5,
+          "positions": [
+            2379,
+            2822,
+            3894,
+            7101,
+            7600
+          ]
+        },
+        {
+          "text": "sthatintersectainatleasttwoelements",
+          "length": 35,
+          "occurrences": 5,
+          "positions": [
+            2378,
+            3893,
+            5401,
+            7100,
+            7599
+          ]
+        },
+        {
+          "text": ",buttheprizeiswonifatleasttwomatch,",
+          "length": 35,
+          "occurrences": 5,
+          "positions": [
+            26332,
+            30496,
+            58267,
+            58456,
+            62489
+          ]
+        },
+        {
+          "text": "p(grandprize|prize)=p(|a∩b|=4||a∩b|",
+          "length": 35,
+          "occurrences": 5,
+          "positions": [
+            31108,
+            41240,
+            48417,
+            62383,
+            64298
+          ]
+        },
+        {
+          "text": ",butintheconditionalprobability,we",
+          "length": 34,
+          "occurrences": 5,
+          "positions": [
+            5855,
+            30551,
+            46963,
+            49084,
+            58301
+          ]
+        },
+        {
+          "text": "intheconditionalprobability,given",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            4978,
+            6409,
+            14422,
+            21636,
+            57834
+          ]
+        },
+        {
+          "text": "tobe\"exactlytwo\",butthe\"atleast\"",
+          "length": 32,
+          "occurrences": 5,
+          "positions": [
+            30072,
+            36608,
+            39109,
+            41000,
+            64390
+          ]
+        },
+        {
+          "text": "case,theconditionalprobabilityis",
+          "length": 32,
+          "occurrences": 5,
+          "positions": [
+            35452,
+            40112,
+            43122,
+            62734,
+            68033
+          ]
+        },
+        {
+          "text": "theproblemisthatshewinsaprizeif",
+          "length": 31,
+          "occurrences": 5,
+          "positions": [
+            10404,
+            44373,
+            46500,
+            63494,
+            66234
+          ]
+        },
+        {
+          "text": "theyarenotmutuallyexclusive,and",
+          "length": 31,
+          "occurrences": 5,
+          "positions": [
+            35401,
+            36947,
+            60650,
+            60842,
+            64240
+          ]
+        },
+        {
+          "text": "isthatshewinsaprizeifatleasttwo",
+          "length": 31,
+          "occurrences": 5,
+          "positions": [
+            10414,
+            46510,
+            49324,
+            63504,
+            66244
+          ]
+        },
+        {
+          "text": "sgiventhatshewontheprize,whatis",
+          "length": 31,
+          "occurrences": 5,
+          "positions": [
+            46634,
+            49463,
+            62558,
+            63625,
+            66365
+          ]
+        },
+        {
+          "text": "|a∩b|≥2,andgrandprizeis|a∩b|=4",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            10970,
+            30997,
+            32714,
+            38742,
+            41881
+          ]
+        },
+        {
+          "text": "e\"2oftherandomlychosennumbers\"",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            13152,
+            18455,
+            39051,
+            57980,
+            61977
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 10,
+      "expected_int": 104,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 52679,
+      "has_repetition": true,
+      "patterns_found": 4,
+      "most_frequent_pattern": {
+        "text": "now,thecollinearpointsared(0,0),e(p,0),c(107,0),f(q,0)",
+        "length": 54,
+        "occurrences": 6,
+        "positions": [
+          18211,
+          20484,
+          22739,
+          33860,
+          36126,
+          42019
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "now,thecollinearpointsared(0,0),e(p,0),c(107,0),f(q,0)",
+          "length": 54,
+          "occurrences": 6,
+          "positions": [
+            18211,
+            20484,
+            22739,
+            33860,
+            36126,
+            42019
+          ]
+        },
+        {
+          "text": ".now,thecollinearpointsared(0,0),e(p,0),c(107,0),f(q,0)",
+          "length": 55,
+          "occurrences": 5,
+          "positions": [
+            20483,
+            22738,
+            33859,
+            36125,
+            42018
+          ]
+        },
+        {
+          "text": "(-137)^2+190*(-137)+561=18769-26030+561",
+          "length": 39,
+          "occurrences": 5,
+          "positions": [
+            38074,
+            38676,
+            44073,
+            46483,
+            47326
+          ]
+        },
+        {
+          "text": "thecircleequationisx^2+y^2+dx-16y=0",
+          "length": 35,
+          "occurrences": 5,
+          "positions": [
+            9425,
+            10039,
+            32869,
+            37304,
+            49063
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 11,
+      "expected_int": 294,
+      "response_int": 294,
+      "is_correct": true,
+      "text_length": 59666,
+      "has_repetition": true,
+      "patterns_found": 11,
+      "most_frequent_pattern": {
+        "text": "thenumberofwaystodistributethe",
+        "length": 30,
+        "occurrences": 9,
+        "positions": [
+          9029,
+          31987,
+          33728,
+          35890,
+          52343,
+          58946,
+          59060,
+          59188,
+          59275
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "thenumberofwaystodistributethe",
+          "length": 30,
+          "occurrences": 9,
+          "positions": [
+            9029,
+            31987,
+            33728,
+            35890,
+            52343,
+            58946,
+            59060,
+            59188,
+            59275
+          ]
+        },
+        {
+          "text": "runlengths:twopositiveintegerssum",
+          "length": 33,
+          "occurrences": 8,
+          "positions": [
+            23741,
+            24428,
+            24985,
+            28412,
+            28698,
+            45495,
+            54449,
+            55239
+          ]
+        },
+        {
+          "text": "withexactlyfourdirectionchanges",
+          "length": 31,
+          "occurrences": 7,
+          "positions": [
+            5459,
+            10992,
+            15427,
+            24111,
+            30787,
+            48423,
+            58581
+          ]
+        },
+        {
+          "text": "threepositiveintegerssummingto",
+          "length": 30,
+          "occurrences": 7,
+          "positions": [
+            13463,
+            22895,
+            24304,
+            28335,
+            58096,
+            58989,
+            59232
+          ]
+        },
+        {
+          "text": "threepositiveintegerssummingto8",
+          "length": 31,
+          "occurrences": 6,
+          "positions": [
+            13463,
+            24304,
+            28335,
+            58096,
+            58989,
+            59232
+          ]
+        },
+        {
+          "text": "withexactlytwodirectionchanges",
+          "length": 30,
+          "occurrences": 6,
+          "positions": [
+            16658,
+            17902,
+            22744,
+            27987,
+            41514,
+            53710
+          ]
+        },
+        {
+          "text": "runlengths:threepositiveintegerssum",
+          "length": 35,
+          "occurrences": 5,
+          "positions": [
+            23667,
+            24293,
+            24913,
+            28324,
+            45428
+          ]
+        },
+        {
+          "text": "runlengths:twopositiveintegerssumto",
+          "length": 35,
+          "occurrences": 5,
+          "positions": [
+            23741,
+            24985,
+            45495,
+            54449,
+            55239
+          ]
+        },
+        {
+          "text": "thepathisdeterminedbythesequence",
+          "length": 32,
+          "occurrences": 5,
+          "positions": [
+            12089,
+            24758,
+            38577,
+            56437,
+            56689
+          ]
+        },
+        {
+          "text": "numberofpositiveintegersolutions",
+          "length": 32,
+          "occurrences": 5,
+          "positions": [
+            13988,
+            24359,
+            38733,
+            38854,
+            45996
+          ]
+        },
+        {
+          "text": "swithexactlytwodirectionchanges",
+          "length": 31,
+          "occurrences": 5,
+          "positions": [
+            16657,
+            17901,
+            22743,
+            27986,
+            41513
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 12,
+      "expected_int": 540,
+      "response_int": 540,
+      "is_correct": true,
+      "text_length": 35458,
+      "has_repetition": true,
+      "patterns_found": 3,
+      "most_frequent_pattern": {
+        "text": "theproblemistofindthelargestpossible",
+        "length": 36,
+        "occurrences": 7,
+        "positions": [
+          8463,
+          12216,
+          14638,
+          18193,
+          20837,
+          25661,
+          29740
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "theproblemistofindthelargestpossible",
+          "length": 36,
+          "occurrences": 7,
+          "positions": [
+            8463,
+            12216,
+            14638,
+            18193,
+            20837,
+            25661,
+            29740
+          ]
+        },
+        {
+          "text": "buttheproblemistofindthelargestpossible",
+          "length": 39,
+          "occurrences": 6,
+          "positions": [
+            8460,
+            14635,
+            18190,
+            20834,
+            25658,
+            29737
+          ]
+        },
+        {
+          "text": "tofindthelargestpossiblerealpart",
+          "length": 32,
+          "occurrences": 5,
+          "positions": [
+            12,
+            8475,
+            12228,
+            18205,
+            25673
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 13,
+      "expected_int": 197,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 75982,
+      "has_repetition": true,
+      "patterns_found": 38,
+      "most_frequent_pattern": {
+        "text": "aretangenttoabandbcrespectively",
+        "length": 31,
+        "occurrences": 11,
+        "positions": [
+          670,
+          1713,
+          11221,
+          11487,
+          18043,
+          20279,
+          22274,
+          23228,
+          51910,
+          61639,
+          70537
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "aretangenttoabandbcrespectively",
+          "length": 31,
+          "occurrences": 11,
+          "positions": [
+            670,
+            1713,
+            11221,
+            11487,
+            18043,
+            20279,
+            22274,
+            23228,
+            51910,
+            61639,
+            70537
+          ]
+        },
+        {
+          "text": "perhaps\"sequentiallytangent\"meansthatthe",
+          "length": 40,
+          "occurrences": 9,
+          "positions": [
+            7940,
+            12527,
+            20022,
+            24679,
+            45896,
+            52508,
+            58302,
+            70250,
+            73532
+          ]
+        },
+        {
+          "text": "circlesaretangenttoabandbcrespectively",
+          "length": 38,
+          "occurrences": 9,
+          "positions": [
+            1706,
+            11480,
+            18036,
+            20272,
+            22267,
+            23221,
+            51903,
+            61632,
+            70530
+          ]
+        },
+        {
+          "text": "eightcirclesofradius34aresequentiallytangent,andtwoofthe",
+          "length": 56,
+          "occurrences": 8,
+          "positions": [
+            27,
+            774,
+            5949,
+            8137,
+            21411,
+            43268,
+            68832,
+            70687
+          ]
+        },
+        {
+          "text": "twoofthecirclesaretangenttoabandbcrespectively",
+          "length": 46,
+          "occurrences": 8,
+          "positions": [
+            1698,
+            11472,
+            18028,
+            20264,
+            23213,
+            51895,
+            61624,
+            70522
+          ]
+        },
+        {
+          "text": "abandbcoftriangleabc,respectively.",
+          "length": 34,
+          "occurrences": 8,
+          "positions": [
+            101,
+            849,
+            6024,
+            8212,
+            21486,
+            43343,
+            68907,
+            70762
+          ]
+        },
+        {
+          "text": "meansthatthecirclesaretangentto",
+          "length": 31,
+          "occurrences": 8,
+          "positions": [
+            348,
+            20050,
+            40983,
+            45924,
+            58330,
+            69043,
+            70278,
+            73560
+          ]
+        },
+        {
+          "text": "thefirstandlastaretangenttothe",
+          "length": 30,
+          "occurrences": 8,
+          "positions": [
+            7201,
+            10711,
+            15137,
+            37856,
+            41545,
+            49618,
+            54909,
+            59109
+          ]
+        },
+        {
+          "text": "\"sequentiallytangent\"meansthatthecirclesaretangentto",
+          "length": 52,
+          "occurrences": 7,
+          "positions": [
+            20029,
+            40962,
+            45903,
+            58309,
+            69022,
+            70257,
+            73539
+          ]
+        },
+        {
+          "text": "\"twoofthecirclesaretangenttoabandbcrespectively\"",
+          "length": 48,
+          "occurrences": 7,
+          "positions": [
+            11471,
+            18027,
+            20263,
+            23212,
+            51894,
+            61623,
+            70521
+          ]
+        },
+        {
+          "text": ".fromtheequation:1/sin(θ-α)=1/sinα+2(n-1)",
+          "length": 41,
+          "occurrences": 7,
+          "positions": [
+            33952,
+            36798,
+            40397,
+            51424,
+            53186,
+            56239,
+            72876
+          ]
+        },
+        {
+          "text": "eachtangenttothenext,andthefirst",
+          "length": 32,
+          "occurrences": 7,
+          "positions": [
+            1597,
+            8303,
+            10687,
+            41322,
+            48479,
+            56112,
+            58539
+          ]
+        },
+        {
+          "text": "circlesaretangenttothetwosides",
+          "length": 30,
+          "occurrences": 7,
+          "positions": [
+            7469,
+            9243,
+            16388,
+            45936,
+            58342,
+            70290,
+            73572
+          ]
+        },
+        {
+          "text": ":\"eightcirclesofradius34aresequentiallytangent,andtwoofthecirclesaretangenttoabandbcoftriangleabc,respectively.",
+          "length": 111,
+          "occurrences": 6,
+          "positions": [
+            772,
+            8135,
+            21409,
+            43266,
+            68830,
+            70685
+          ]
+        },
+        {
+          "text": "says\"twoofthecirclesaretangenttoabandbc",
+          "length": 39,
+          "occurrences": 6,
+          "positions": [
+            8404,
+            12288,
+            18023,
+            23208,
+            51890,
+            61619
+          ]
+        },
+        {
+          "text": "tangenttothetwosidesandtoeachother",
+          "length": 34,
+          "occurrences": 6,
+          "positions": [
+            1804,
+            7984,
+            18694,
+            45946,
+            58004,
+            70300
+          ]
+        },
+        {
+          "text": "tthecirclesaretangenttothetwosides",
+          "length": 34,
+          "occurrences": 6,
+          "positions": [
+            7465,
+            9239,
+            45932,
+            58338,
+            70286,
+            73568
+          ]
+        },
+        {
+          "text": ",eachtangenttothenext,andthefirst",
+          "length": 33,
+          "occurrences": 6,
+          "positions": [
+            1596,
+            8302,
+            10686,
+            48478,
+            56111,
+            58538
+          ]
+        },
+        {
+          "text": "thatthefirstcircleistangenttoab,",
+          "length": 32,
+          "occurrences": 6,
+          "positions": [
+            11532,
+            15565,
+            22843,
+            25243,
+            35503,
+            66944
+          ]
+        },
+        {
+          "text": "thecirclesarealltangenttothetwo",
+          "length": 31,
+          "occurrences": 6,
+          "positions": [
+            1342,
+            9692,
+            20788,
+            48161,
+            52293,
+            60882
+          ]
+        },
+        {
+          "text": "\"eightcirclesofradius34aresequentiallytangent,andtwoofthecirclesaretangenttoabandbcoftriangleabc,respectively.\"",
+          "length": 111,
+          "occurrences": 5,
+          "positions": [
+            773,
+            5948,
+            8136,
+            21410,
+            70686
+          ]
+        },
+        {
+          "text": "\"sequentiallytangent\"meansthattheyaretangenttothe",
+          "length": 49,
+          "occurrences": 5,
+          "positions": [
+            5195,
+            7947,
+            12534,
+            18657,
+            52515
+          ]
+        },
+        {
+          "text": "butinthisproblem,allcircleshavethesameradius",
+          "length": 44,
+          "occurrences": 5,
+          "positions": [
+            19360,
+            24487,
+            46664,
+            55999,
+            62917
+          ]
+        },
+        {
+          "text": ".perhaps\"sequentiallytangent\"meansthatthe",
+          "length": 41,
+          "occurrences": 5,
+          "positions": [
+            7939,
+            12526,
+            20021,
+            52507,
+            58301
+          ]
+        },
+        {
+          "text": "mustholdforthegivennandr,butsincercancels",
+          "length": 41,
+          "occurrences": 5,
+          "positions": [
+            34001,
+            35808,
+            38202,
+            44457,
+            56954
+          ]
+        },
+        {
+          "text": "thetwocirclesthataretangenttoabandbcare",
+          "length": 39,
+          "occurrences": 5,
+          "positions": [
+            24832,
+            39971,
+            51726,
+            53630,
+            73431
+          ]
+        },
+        {
+          "text": "thatthecirclesaretangenttothetwosidesa",
+          "length": 38,
+          "occurrences": 5,
+          "positions": [
+            7462,
+            45929,
+            58335,
+            70283,
+            73565
+          ]
+        },
+        {
+          "text": ",andthefirstistangenttoab,thelasttobc,",
+          "length": 38,
+          "occurrences": 5,
+          "positions": [
+            14397,
+            41342,
+            48499,
+            56132,
+            69091
+          ]
+        },
+        {
+          "text": "problem,allcircleshavethesameradius,so",
+          "length": 38,
+          "occurrences": 5,
+          "positions": [
+            19369,
+            24496,
+            48089,
+            56008,
+            62926
+          ]
+        },
+        {
+          "text": "aretangenttothetwosidesandtoeachother",
+          "length": 37,
+          "occurrences": 5,
+          "positions": [
+            7981,
+            18691,
+            45943,
+            58001,
+            70297
+          ]
+        },
+        {
+          "text": "thefirstistangenttoab,thelasttobc,and",
+          "length": 37,
+          "occurrences": 5,
+          "positions": [
+            14401,
+            41346,
+            48503,
+            69095,
+            71405
+          ]
+        },
+        {
+          "text": "thelineofcentersistheanglebisector",
+          "length": 34,
+          "occurrences": 5,
+          "positions": [
+            37487,
+            48540,
+            54475,
+            55394,
+            57338
+          ]
+        },
+        {
+          "text": "forthelastcircle,itistangenttobc,",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            16912,
+            27167,
+            27918,
+            29708,
+            63270
+          ]
+        },
+        {
+          "text": "eachtangenttothetwolinesandtothe",
+          "length": 32,
+          "occurrences": 5,
+          "positions": [
+            12717,
+            15301,
+            46206,
+            46353,
+            55751
+          ]
+        },
+        {
+          "text": "1/sin(θ-α)=1/sinα+2(n-1)now,this",
+          "length": 32,
+          "occurrences": 5,
+          "positions": [
+            33969,
+            35768,
+            44417,
+            50744,
+            56922
+          ]
+        },
+        {
+          "text": "forthelastcircletobetangenttobc",
+          "length": 31,
+          "occurrences": 5,
+          "positions": [
+            28886,
+            38642,
+            48719,
+            49132,
+            74568
+          ]
+        },
+        {
+          "text": "tangenttotwointersectinglines,",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            5539,
+            6428,
+            13607,
+            24335,
+            46963
+          ]
+        },
+        {
+          "text": "thecirclesaretangenttothesides",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            20059,
+            56593,
+            60172,
+            68647,
+            70965
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 14,
+      "expected_int": 480,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 56539,
+      "has_repetition": true,
+      "patterns_found": 22,
+      "most_frequent_pattern": {
+        "text": "\\frac{\\sin^2\\alpha}{20}-\\frac{\\",
+        "length": 31,
+        "occurrences": 17,
+        "positions": [
+          30601,
+          30686,
+          30833,
+          30932,
+          31140,
+          31382,
+          31599,
+          31758,
+          31865,
+          32167,
+          32246,
+          32509,
+          32798,
+          33532,
+          38792,
+          41725,
+          42181
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "\\frac{\\sin^2\\alpha}{20}-\\frac{\\",
+          "length": 31,
+          "occurrences": 17,
+          "positions": [
+            30601,
+            30686,
+            30833,
+            30932,
+            31140,
+            31382,
+            31599,
+            31758,
+            31865,
+            32167,
+            32246,
+            32509,
+            32798,
+            33532,
+            38792,
+            41725,
+            42181
+          ]
+        },
+        {
+          "text": "\\frac{\\sin^2\\alpha}{20}-\\frac{\\cos^2\\alpha}{24}",
+          "length": 47,
+          "occurrences": 16,
+          "positions": [
+            30601,
+            30686,
+            30833,
+            30932,
+            31140,
+            31382,
+            31599,
+            31758,
+            31865,
+            32167,
+            32509,
+            32798,
+            33532,
+            38792,
+            41725,
+            42181
+          ]
+        },
+        {
+          "text": "\\frac{\\cos^2\\alpha}{20}-\\frac{\\sin^2\\alpha}{24}",
+          "length": 47,
+          "occurrences": 14,
+          "positions": [
+            29350,
+            29422,
+            29996,
+            30763,
+            31081,
+            31330,
+            31551,
+            31706,
+            31817,
+            32106,
+            32744,
+            41277,
+            41441,
+            42129
+          ]
+        },
+        {
+          "text": "\\frac{1}{20}-\\frac{x1^2}{24y1^2}",
+          "length": 32,
+          "occurrences": 11,
+          "positions": [
+            19764,
+            20404,
+            20886,
+            21152,
+            21252,
+            21285,
+            21758,
+            21862,
+            21920,
+            21984,
+            22286
+          ]
+        },
+        {
+          "text": "\\frac{x^2}{20}-\\frac{y^2}{24}=",
+          "length": 30,
+          "occurrences": 10,
+          "positions": [
+            44,
+            1301,
+            6990,
+            15875,
+            16222,
+            17749,
+            18703,
+            19445,
+            25223,
+            25293
+          ]
+        },
+        {
+          "text": "\\frac{x^2}{20}-\\frac{y^2}{24}=1",
+          "length": 31,
+          "occurrences": 9,
+          "positions": [
+            44,
+            1301,
+            6990,
+            15875,
+            16222,
+            17749,
+            18703,
+            19445,
+            25223
+          ]
+        },
+        {
+          "text": "\\(\\frac{x^2}{20}-\\frac{y^2}{24}=1\\)",
+          "length": 35,
+          "occurrences": 8,
+          "positions": [
+            42,
+            1299,
+            6988,
+            15873,
+            16220,
+            17747,
+            18701,
+            19443
+          ]
+        },
+        {
+          "text": "\\frac{x1^2}{20}-\\frac{y1^2}{24}=1",
+          "length": 33,
+          "occurrences": 8,
+          "positions": [
+            3918,
+            6884,
+            15944,
+            20960,
+            21370,
+            22451,
+            22491,
+            25638
+          ]
+        },
+        {
+          "text": "=\\frac{\\cos^2\\alpha}{20}-\\frac{\\sin^2\\alpha}{24}",
+          "length": 48,
+          "occurrences": 7,
+          "positions": [
+            31329,
+            31550,
+            31705,
+            31816,
+            32743,
+            41440,
+            42128
+          ]
+        },
+        {
+          "text": "\\(\\frac{x1^2}{20}-\\frac{y1^2}{24}=1\\)",
+          "length": 37,
+          "occurrences": 7,
+          "positions": [
+            3916,
+            6882,
+            15942,
+            20958,
+            21368,
+            22449,
+            22489
+          ]
+        },
+        {
+          "text": "\\frac{\\sin^2γ}{20}-\\frac{\\cos^2γ}{24}",
+          "length": 37,
+          "occurrences": 7,
+          "positions": [
+            43525,
+            43958,
+            44741,
+            45002,
+            45431,
+            46069,
+            46702
+          ]
+        },
+        {
+          "text": "d_bd=\\frac{\\sin^2\\alpha}{20}-\\frac{\\cos^2\\alpha}{24}",
+          "length": 52,
+          "occurrences": 6,
+          "positions": [
+            31377,
+            31753,
+            32504,
+            32793,
+            33527,
+            42176
+          ]
+        },
+        {
+          "text": "y1^2=\\frac{1}{\\frac{m}{20}-\\frac{1}{24}}",
+          "length": 40,
+          "occurrences": 6,
+          "positions": [
+            22638,
+            23486,
+            23648,
+            25104,
+            27204,
+            27309
+          ]
+        },
+        {
+          "text": "=\\frac{\\sin^2γ}{20}-\\frac{\\cos^2γ}{24}",
+          "length": 38,
+          "occurrences": 6,
+          "positions": [
+            43524,
+            44740,
+            45001,
+            45430,
+            46068,
+            46701
+          ]
+        },
+        {
+          "text": "numberthatislessthanbd^2forall",
+          "length": 30,
+          "occurrences": 6,
+          "positions": [
+            34154,
+            34472,
+            37646,
+            50584,
+            52605,
+            53152
+          ]
+        },
+        {
+          "text": "d_ac=\\frac{\\cos^2\\alpha}{20}-\\frac{\\sin^2\\alpha}{24}",
+          "length": 52,
+          "occurrences": 5,
+          "positions": [
+            31325,
+            31701,
+            32739,
+            41436,
+            42124
+          ]
+        },
+        {
+          "text": "^2\\left(\\frac{1}{20}-\\frac{x1^2}{24y1^2}\\right)=1",
+          "length": 49,
+          "occurrences": 5,
+          "positions": [
+            19756,
+            20396,
+            20878,
+            21750,
+            21854
+          ]
+        },
+        {
+          "text": "d_bd(γ)=\\frac{\\sin^2γ}{20}-\\frac{\\cos^2γ}{24}",
+          "length": 45,
+          "occurrences": 5,
+          "positions": [
+            44733,
+            44994,
+            45423,
+            46061,
+            46694
+          ]
+        },
+        {
+          "text": "numberthatislessthanbd^2forallsuchrhombi",
+          "length": 40,
+          "occurrences": 5,
+          "positions": [
+            34154,
+            34472,
+            37646,
+            50584,
+            52605
+          ]
+        },
+        {
+          "text": "findthegreatestrealnumberthatislessthan",
+          "length": 39,
+          "occurrences": 5,
+          "positions": [
+            134,
+            34135,
+            34453,
+            35218,
+            52586
+          ]
+        },
+        {
+          "text": "\\frac{\\cos^2γ}{20}-\\frac{\\sin^2γ}{24}",
+          "length": 37,
+          "occurrences": 5,
+          "positions": [
+            44951,
+            48500,
+            54372,
+            54493,
+            54607
+          ]
+        },
+        {
+          "text": "x2^2=\\frac{1}{\\frac{1}{20}-\\frac{",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            21138,
+            21906,
+            22272,
+            22368,
+            22753
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 15,
+      "expected_int": 73,
+      "response_int": 73,
+      "is_correct": true,
+      "text_length": 52603,
+      "has_repetition": true,
+      "patterns_found": 10,
+      "most_frequent_pattern": {
+        "text": "|x∪y∪z|=|x|+|y|+|z|-|x∩y|-|x∩z|-|y∩z|+|x∩y∩z|",
+        "length": 45,
+        "occurrences": 7,
+        "positions": [
+          17324,
+          17752,
+          18389,
+          19977,
+          38935,
+          44603,
+          47555
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "|x∪y∪z|=|x|+|y|+|z|-|x∩y|-|x∩z|-|y∩z|+|x∩y∩z|",
+          "length": 45,
+          "occurrences": 7,
+          "positions": [
+            17324,
+            17752,
+            18389,
+            19977,
+            38935,
+            44603,
+            47555
+          ]
+        },
+        {
+          "text": "thenumberwhoownallfour,whichis",
+          "length": 30,
+          "occurrences": 7,
+          "positions": [
+            4291,
+            9206,
+            26383,
+            31141,
+            36659,
+            38287,
+            39200
+          ]
+        },
+        {
+          "text": "tofindthenumberwhoownallfour,whichis",
+          "length": 36,
+          "occurrences": 6,
+          "positions": [
+            9200,
+            26377,
+            31135,
+            36653,
+            38281,
+            39194
+          ]
+        },
+        {
+          "text": "istofindthenumberwhoownallfour,",
+          "length": 31,
+          "occurrences": 6,
+          "positions": [
+            9198,
+            26375,
+            31133,
+            36651,
+            36733,
+            39192
+          ]
+        },
+        {
+          "text": ":|x∪y∪z|=|x|+|y|+|z|-|x∩y|-|x∩z|-|y∩z|+|x∩y∩z|",
+          "length": 46,
+          "occurrences": 5,
+          "positions": [
+            17323,
+            17751,
+            18388,
+            38934,
+            47554
+          ]
+        },
+        {
+          "text": "inclusion-exclusion:|x∪y∪z|=|x|+|y|+|z|-",
+          "length": 40,
+          "occurrences": 5,
+          "positions": [
+            17732,
+            18369,
+            38915,
+            47535,
+            49441
+          ]
+        },
+        {
+          "text": "istofindthenumberwhoownallfour,whichis",
+          "length": 38,
+          "occurrences": 5,
+          "positions": [
+            9198,
+            26375,
+            31133,
+            36651,
+            39192
+          ]
+        },
+        {
+          "text": "diamondring,golfclubs,gardenspade",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            70,
+            2961,
+            51250,
+            51338,
+            52347
+          ]
+        },
+        {
+          "text": "sumoverallresidentsofthenumberof",
+          "length": 32,
+          "occurrences": 5,
+          "positions": [
+            6572,
+            8045,
+            13634,
+            14827,
+            51959
+          ]
+        },
+        {
+          "text": "thenumberwhoownexactlytwoofthe",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            30989,
+            37335,
+            43114,
+            48415,
+            49220
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 16,
+      "expected_int": 468,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 57435,
+      "has_repetition": true,
+      "patterns_found": 24,
+      "most_frequent_pattern": {
+        "text": "theanglebisectorfromaisperpendicularto",
+        "length": 38,
+        "occurrences": 15,
+        "positions": [
+          5139,
+          6142,
+          6493,
+          11067,
+          12114,
+          12190,
+          12381,
+          12623,
+          12839,
+          13262,
+          16405,
+          17149,
+          18827,
+          39332,
+          44661
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "theanglebisectorfromaisperpendicularto",
+          "length": 38,
+          "occurrences": 15,
+          "positions": [
+            5139,
+            6142,
+            6493,
+            11067,
+            12114,
+            12190,
+            12381,
+            12623,
+            12839,
+            13262,
+            16405,
+            17149,
+            18827,
+            39332,
+            44661
+          ]
+        },
+        {
+          "text": "n_x=sinα+sin(α+γ)cos2γ+sinγcos",
+          "length": 30,
+          "occurrences": 10,
+          "positions": [
+            37860,
+            38423,
+            38651,
+            39012,
+            39680,
+            40416,
+            40706,
+            41040,
+            41548,
+            43079
+          ]
+        },
+        {
+          "text": "themidpointofarcbcnotcontaininga",
+          "length": 32,
+          "occurrences": 9,
+          "positions": [
+            19666,
+            19724,
+            21048,
+            21409,
+            21542,
+            22430,
+            22617,
+            22983,
+            30093
+          ]
+        },
+        {
+          "text": "thetriangleisisosceleswithab=ac,",
+          "length": 32,
+          "occurrences": 8,
+          "positions": [
+            17373,
+            17492,
+            44770,
+            45442,
+            47705,
+            49451,
+            50046,
+            55284
+          ]
+        },
+        {
+          "text": "\\sin\\alpha+\\sin\\beta+\\sin\\gamma",
+          "length": 31,
+          "occurrences": 8,
+          "positions": [
+            35225,
+            35566,
+            35671,
+            35846,
+            35971,
+            36065,
+            37002,
+            37098
+          ]
+        },
+        {
+          "text": "themidpointofarcbcnotcontaininga,",
+          "length": 33,
+          "occurrences": 7,
+          "positions": [
+            19666,
+            19724,
+            21409,
+            21542,
+            22430,
+            22617,
+            22983
+          ]
+        },
+        {
+          "text": "n_x(cos(2γ+α)-1)+n_ysin(2γ+α)=0",
+          "length": 31,
+          "occurrences": 7,
+          "positions": [
+            37825,
+            38793,
+            39776,
+            40357,
+            40907,
+            43549,
+            44357
+          ]
+        },
+        {
+          "text": ",n_x=sinα+sin(α+γ)cos2γ+sinγcos",
+          "length": 31,
+          "occurrences": 7,
+          "positions": [
+            37859,
+            38422,
+            39011,
+            39679,
+            40415,
+            41039,
+            41547
+          ]
+        },
+        {
+          "text": "intersectsthecircumcircleatthe",
+          "length": 30,
+          "occurrences": 7,
+          "positions": [
+            11254,
+            11492,
+            13816,
+            13949,
+            14075,
+            19639,
+            21126
+          ]
+        },
+        {
+          "text": "intersectionoftheanglebisector",
+          "length": 30,
+          "occurrences": 7,
+          "positions": [
+            11595,
+            16179,
+            19849,
+            20922,
+            22345,
+            22739,
+            29825
+          ]
+        },
+        {
+          "text": "midpointofarcbcnotcontaininga,",
+          "length": 30,
+          "occurrences": 7,
+          "positions": [
+            19669,
+            19727,
+            21412,
+            21545,
+            22433,
+            22620,
+            22986
+          ]
+        },
+        {
+          "text": "theanglebisectorfromaintersectsthecircumcirclea",
+          "length": 47,
+          "occurrences": 6,
+          "positions": [
+            11340,
+            13795,
+            13928,
+            14054,
+            19618,
+            21105
+          ]
+        },
+        {
+          "text": "thattheanglebisectorfromaisperpendicularto",
+          "length": 42,
+          "occurrences": 6,
+          "positions": [
+            5135,
+            6138,
+            12835,
+            16401,
+            17145,
+            18823
+          ]
+        },
+        {
+          "text": ",n_x=sinα+sin(α+γ)cos2γ+sinγcos(2γ+2α)",
+          "length": 38,
+          "occurrences": 6,
+          "positions": [
+            37859,
+            38422,
+            39011,
+            39679,
+            40415,
+            41547
+          ]
+        },
+        {
+          "text": "n_x=sinα+sin(α+γ)cos2γ+sinγcos(2γ+2α)n",
+          "length": 38,
+          "occurrences": 6,
+          "positions": [
+            37860,
+            38651,
+            39012,
+            39680,
+            40416,
+            40706
+          ]
+        },
+        {
+          "text": "istheintersectionofanglebisectors",
+          "length": 33,
+          "occurrences": 6,
+          "positions": [
+            3847,
+            6316,
+            13571,
+            16084,
+            25462,
+            39429
+          ]
+        },
+        {
+          "text": "theincenteristheintersectionof",
+          "length": 30,
+          "occurrences": 6,
+          "positions": [
+            3836,
+            6305,
+            13560,
+            22329,
+            25451,
+            39418
+          ]
+        },
+        {
+          "text": "theincenteristheintersectionofanglebisectors,",
+          "length": 45,
+          "occurrences": 5,
+          "positions": [
+            3836,
+            6305,
+            13560,
+            25451,
+            39418
+          ]
+        },
+        {
+          "text": "theconditionisthatiaisperpendiculartooi.",
+          "length": 40,
+          "occurrences": 5,
+          "positions": [
+            3089,
+            5514,
+            18060,
+            20028,
+            54400
+          ]
+        },
+        {
+          "text": "{26\\cdot13\\cdot(\\sin\\alpha+\\sin\\beta",
+          "length": 36,
+          "occurrences": 5,
+          "positions": [
+            35126,
+            35209,
+            35469,
+            35550,
+            35955
+          ]
+        },
+        {
+          "text": "stheintersectionoftheanglebisectors",
+          "length": 35,
+          "occurrences": 5,
+          "positions": [
+            16175,
+            19845,
+            22341,
+            22735,
+            29821
+          ]
+        },
+        {
+          "text": "sthemidpointofarcbcnotcontaininga",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            19723,
+            21047,
+            21541,
+            22616,
+            22982
+          ]
+        },
+        {
+          "text": ":n_x(cos(2γ+α)-1)+n_ysin(2γ+α)=0",
+          "length": 32,
+          "occurrences": 5,
+          "positions": [
+            37824,
+            39775,
+            40356,
+            43548,
+            44356
+          ]
+        },
+        {
+          "text": "directionvectorofoiis(i_x,i_y)",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            3388,
+            31850,
+            32070,
+            36104,
+            36380
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 17,
+      "expected_int": 601,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 49641,
+      "has_repetition": true,
+      "patterns_found": 4,
+      "most_frequent_pattern": {
+        "text": "nonnegativeintegerssummingto300,",
+        "length": 32,
+        "occurrences": 8,
+        "positions": [
+          3863,
+          4696,
+          9033,
+          10401,
+          11856,
+          12581,
+          14951,
+          16101
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "nonnegativeintegerssummingto300,",
+          "length": 32,
+          "occurrences": 8,
+          "positions": [
+            3863,
+            4696,
+            9033,
+            10401,
+            11856,
+            12581,
+            14951,
+            16101
+          ]
+        },
+        {
+          "text": "enonnegativeintegerssummingto300",
+          "length": 32,
+          "occurrences": 7,
+          "positions": [
+            3081,
+            3862,
+            4695,
+            9032,
+            12580,
+            14950,
+            16100
+          ]
+        },
+        {
+          "text": "theequationis300s2-s3=6,000,000",
+          "length": 31,
+          "occurrences": 6,
+          "positions": [
+            912,
+            2252,
+            2760,
+            4997,
+            6748,
+            20262
+          ]
+        },
+        {
+          "text": "nonnegativeintegerrootssummingto300",
+          "length": 35,
+          "occurrences": 5,
+          "positions": [
+            8668,
+            8813,
+            8932,
+            15171,
+            16815
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 18,
+      "expected_int": 23,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 51874,
+      "has_repetition": true,
+      "patterns_found": 11,
+      "most_frequent_pattern": {
+        "text": "a'^2-\\frac{1}{4}a'+\\frac{1}{64}",
+        "length": 31,
+        "occurrences": 14,
+        "positions": [
+          45773,
+          45915,
+          45959,
+          46031,
+          46071,
+          46114,
+          46148,
+          46232,
+          46628,
+          46904,
+          47287,
+          47388,
+          47527,
+          48050
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "a'^2-\\frac{1}{4}a'+\\frac{1}{64}",
+          "length": 31,
+          "occurrences": 14,
+          "positions": [
+            45773,
+            45915,
+            45959,
+            46031,
+            46071,
+            46114,
+            46148,
+            46232,
+            46628,
+            46904,
+            47287,
+            47388,
+            47527,
+            48050
+          ]
+        },
+        {
+          "text": "(1-a'^2)(a'-x_c)^2=(x_c)^2(y_c)^2",
+          "length": 33,
+          "occurrences": 13,
+          "positions": [
+            21962,
+            22063,
+            22509,
+            23162,
+            24368,
+            24931,
+            26432,
+            27352,
+            27439,
+            28428,
+            28505,
+            29352,
+            29983
+          ]
+        },
+        {
+          "text": "\\(\\frac{x}{a'}+\\frac{y}{b'}=1\\)",
+          "length": 31,
+          "occurrences": 13,
+          "positions": [
+            3815,
+            4460,
+            4665,
+            4774,
+            5381,
+            7449,
+            8698,
+            9917,
+            10882,
+            11473,
+            12313,
+            12672,
+            36942
+          ]
+        },
+        {
+          "text": "(a'^2-\\frac{1}{4}a'+\\frac{1}{64})",
+          "length": 33,
+          "occurrences": 10,
+          "positions": [
+            45772,
+            45958,
+            46030,
+            46070,
+            46113,
+            46147,
+            46627,
+            46903,
+            47286,
+            47387
+          ]
+        },
+        {
+          "text": "(1-a'^2)(a'-x_c)^2=(a')^2y_c^2",
+          "length": 30,
+          "occurrences": 8,
+          "positions": [
+            30670,
+            31838,
+            32118,
+            37397,
+            38222,
+            38495,
+            38847,
+            44413
+          ]
+        },
+        {
+          "text": "\\(\\frac{c_x}{a'}+\\frac{c_y}{b'}=1\\)",
+          "length": 35,
+          "occurrences": 7,
+          "positions": [
+            15277,
+            15395,
+            15869,
+            18499,
+            18583,
+            18970,
+            19554
+          ]
+        },
+        {
+          "text": "\\frac{x}{a'}+\\frac{y}{\\sqrt{1-a'^2}}=1\\",
+          "length": 39,
+          "occurrences": 6,
+          "positions": [
+            4966,
+            5051,
+            5455,
+            6819,
+            9999,
+            12867
+          ]
+        },
+        {
+          "text": "theequation(1-a'^2)(a'-x_c)^2=(",
+          "length": 31,
+          "occurrences": 6,
+          "positions": [
+            22498,
+            24357,
+            24920,
+            31827,
+            37386,
+            38211
+          ]
+        },
+        {
+          "text": ":(1-a'^2)(a'-c_x)^2=(c_x)^2(c_y)^2",
+          "length": 34,
+          "occurrences": 5,
+          "positions": [
+            19055,
+            19171,
+            19267,
+            20582,
+            22006
+          ]
+        },
+        {
+          "text": "eequation\\(\\frac{x}{a'}+\\frac{y}{",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            3806,
+            4656,
+            7440,
+            10873,
+            12856
+          ]
+        },
+        {
+          "text": "ofa'forwhichthelineequationholds",
+          "length": 32,
+          "occurrences": 5,
+          "positions": [
+            17038,
+            20046,
+            20530,
+            24240,
+            24871
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 19,
+      "expected_int": 321,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 47988,
+      "has_repetition": true,
+      "patterns_found": 2,
+      "most_frequent_pattern": {
+        "text": "res(p,q)=\\prod_{p(\\alpha)=0}q(\\alpha)",
+        "length": 37,
+        "occurrences": 7,
+        "positions": [
+          4861,
+          13054,
+          14563,
+          14784,
+          19338,
+          23861,
+          38673
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "res(p,q)=\\prod_{p(\\alpha)=0}q(\\alpha)",
+          "length": 37,
+          "occurrences": 7,
+          "positions": [
+            4861,
+            13054,
+            14563,
+            14784,
+            19338,
+            23861,
+            38673
+          ]
+        },
+        {
+          "text": ",res(p,q)=\\prod_{p(\\alpha)=0}q(\\alpha)",
+          "length": 38,
+          "occurrences": 5,
+          "positions": [
+            4860,
+            14562,
+            14783,
+            19337,
+            23860
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 20,
+      "expected_int": 211,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 50367,
+      "has_repetition": true,
+      "patterns_found": 1,
+      "most_frequent_pattern": {
+        "text": ",wherekisthenumberofdistinctprimefactors",
+        "length": 40,
+        "occurrences": 5,
+        "positions": [
+          19932,
+          21126,
+          23524,
+          27766,
+          30847
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": ",wherekisthenumberofdistinctprimefactors",
+          "length": 40,
+          "occurrences": 5,
+          "positions": [
+            19932,
+            21126,
+            23524,
+            27766,
+            30847
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 21,
+      "expected_int": 315,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 59684,
+      "has_repetition": true,
+      "patterns_found": 7,
+      "most_frequent_pattern": {
+        "text": "15°,30°,45°,60°,75°,90°,105°,120°,135°,150°,165°",
+        "length": 48,
+        "occurrences": 7,
+        "positions": [
+          30182,
+          36375,
+          37086,
+          37984,
+          40991,
+          46288,
+          46786
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "15°,30°,45°,60°,75°,90°,105°,120°,135°,150°,165°",
+          "length": 48,
+          "occurrences": 7,
+          "positions": [
+            30182,
+            36375,
+            37086,
+            37984,
+            40991,
+            46288,
+            46786
+          ]
+        },
+        {
+          "text": "15°,30°,45°,60°,75°,90°,105°,120°,135°,150°,165°,180°",
+          "length": 53,
+          "occurrences": 5,
+          "positions": [
+            30182,
+            36375,
+            37086,
+            40991,
+            46288
+          ]
+        },
+        {
+          "text": "eachsideoftherectangleliesoneitherasideoradiagonal",
+          "length": 50,
+          "occurrences": 5,
+          "positions": [
+            89,
+            326,
+            680,
+            1991,
+            16492
+          ]
+        },
+        {
+          "text": "rectangle,weneedtwopairsofparallel",
+          "length": 34,
+          "occurrences": 5,
+          "positions": [
+            11524,
+            17873,
+            28012,
+            45350,
+            52138
+          ]
+        },
+        {
+          "text": "thedodecagon'ssidesanddiagonals",
+          "length": 31,
+          "occurrences": 5,
+          "positions": [
+            1124,
+            2128,
+            12376,
+            12694,
+            18625
+          ]
+        },
+        {
+          "text": "sidesordiagonalsofthedodecagon",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            1276,
+            8362,
+            9094,
+            10208,
+            18051
+          ]
+        },
+        {
+          "text": "thedodecagon'ssidesordiagonals",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            9883,
+            10505,
+            12226,
+            13148,
+            13336
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 22,
+      "expected_int": 236,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 63464,
+      "has_repetition": true,
+      "patterns_found": 7,
+      "most_frequent_pattern": {
+        "text": "thetwomiddleelementsarex_kandx_{k+1},",
+        "length": 37,
+        "occurrences": 6,
+        "positions": [
+          5573,
+          16010,
+          16837,
+          20065,
+          20691,
+          22545
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "thetwomiddleelementsarex_kandx_{k+1},",
+          "length": 37,
+          "occurrences": 6,
+          "positions": [
+            5573,
+            16010,
+            16837,
+            20065,
+            20691,
+            22545
+          ]
+        },
+        {
+          "text": "thetwomiddleelementsarey_kandy_{k+1}",
+          "length": 36,
+          "occurrences": 6,
+          "positions": [
+            24072,
+            26266,
+            29772,
+            32046,
+            34256,
+            63405
+          ]
+        },
+        {
+          "text": ".now,sincethelistisordered,and",
+          "length": 30,
+          "occurrences": 6,
+          "positions": [
+            3970,
+            5662,
+            6820,
+            24873,
+            30760,
+            35329
+          ]
+        },
+        {
+          "text": ".now,thetwomiddleelementsarey_kandy_{k+1}",
+          "length": 41,
+          "occurrences": 5,
+          "positions": [
+            24067,
+            26261,
+            29767,
+            34251,
+            63400
+          ]
+        },
+        {
+          "text": ",thetwomiddleelementsarex_kandx_{k+1},",
+          "length": 38,
+          "occurrences": 5,
+          "positions": [
+            16009,
+            16836,
+            20064,
+            20690,
+            22544
+          ]
+        },
+        {
+          "text": "themodeis9,butthereareothernumberswith",
+          "length": 38,
+          "occurrences": 5,
+          "positions": [
+            44164,
+            48552,
+            50012,
+            51144,
+            62043
+          ]
+        },
+        {
+          "text": "areconsecutiveintheorderedlist",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            4378,
+            5905,
+            7716,
+            10663,
+            29880
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 23,
+      "expected_int": 45,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 46523,
+      "has_repetition": true,
+      "patterns_found": 1,
+      "most_frequent_pattern": {
+        "text": "thetwonumbersformedbyreadinglefttoright",
+        "length": 39,
+        "occurrences": 5,
+        "positions": [
+          87,
+          360,
+          2369,
+          2781,
+          5397
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "thetwonumbersformedbyreadinglefttoright",
+          "length": 39,
+          "occurrences": 5,
+          "positions": [
+            87,
+            360,
+            2369,
+            2781,
+            5397
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 24,
+      "expected_int": 33,
+      "response_int": 33,
+      "is_correct": true,
+      "text_length": 19738,
+      "has_repetition": false,
+      "patterns_found": 0
+    },
+    {
+      "entry_index": 25,
+      "expected_int": 80,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 61832,
+      "has_repetition": true,
+      "patterns_found": 14,
+      "most_frequent_pattern": {
+        "text": "verticesaretheintersectionpoints",
+        "length": 32,
+        "occurrences": 8,
+        "positions": [
+          3562,
+          7873,
+          8499,
+          13525,
+          15055,
+          16750,
+          29529,
+          39960
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "verticesaretheintersectionpoints",
+          "length": 32,
+          "occurrences": 8,
+          "positions": [
+            3562,
+            7873,
+            8499,
+            13525,
+            15055,
+            16750,
+            29529,
+            39960
+          ]
+        },
+        {
+          "text": "theverticesaretheintersectionpoints",
+          "length": 35,
+          "occurrences": 6,
+          "positions": [
+            3559,
+            8496,
+            15052,
+            16747,
+            29526,
+            39957
+          ]
+        },
+        {
+          "text": "frome(-0.5,-0.866)tof(0.5,-0.866),",
+          "length": 34,
+          "occurrences": 6,
+          "positions": [
+            32420,
+            38739,
+            41604,
+            44372,
+            44925,
+            51057
+          ]
+        },
+        {
+          "text": "a(1,0),b(0.5,0.866),c(-0.5,0.866)",
+          "length": 33,
+          "occurrences": 6,
+          "positions": [
+            22432,
+            38258,
+            41282,
+            45628,
+            50316,
+            50458
+          ]
+        },
+        {
+          "text": "thehexagonisconvexandequilateral",
+          "length": 32,
+          "occurrences": 6,
+          "positions": [
+            1916,
+            4803,
+            14996,
+            17916,
+            33932,
+            51870
+          ]
+        },
+        {
+          "text": "a(1,0),b(0.5,0.866),c(-0.5,0.866),d(-1,0),e(-0.5,-0.866),f(0.5,-0.866)",
+          "length": 70,
+          "occurrences": 5,
+          "positions": [
+            22432,
+            38258,
+            41282,
+            50316,
+            50458
+          ]
+        },
+        {
+          "text": "thethreelinesaretheextensionsofthethreesides,",
+          "length": 45,
+          "occurrences": 5,
+          "positions": [
+            16631,
+            20087,
+            21644,
+            23972,
+            56831
+          ]
+        },
+        {
+          "text": ".ineedtoconsiderthatthethreelinesare",
+          "length": 36,
+          "occurrences": 5,
+          "positions": [
+            7268,
+            13638,
+            20067,
+            21977,
+            23952
+          ]
+        },
+        {
+          "text": "thehexagonisformedbythethreelines,",
+          "length": 34,
+          "occurrences": 5,
+          "positions": [
+            7133,
+            13384,
+            19021,
+            23740,
+            39920
+          ]
+        },
+        {
+          "text": "thehexagonisconvexandequilateral,",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            1916,
+            4803,
+            14996,
+            17916,
+            33932
+          ]
+        },
+        {
+          "text": "hexagonwithoppositesidesparallel",
+          "length": 32,
+          "occurrences": 5,
+          "positions": [
+            2430,
+            8609,
+            18073,
+            24854,
+            46176
+          ]
+        },
+        {
+          "text": "thehexagonisformedbythesegments",
+          "length": 31,
+          "occurrences": 5,
+          "positions": [
+            3447,
+            17427,
+            21744,
+            29473,
+            35080
+          ]
+        },
+        {
+          "text": "sinceoppositesidesareparallel,",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            727,
+            1002,
+            1202,
+            3044,
+            5473
+          ]
+        },
+        {
+          "text": "thetrianglehassides200,240,300",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            12217,
+            38551,
+            47226,
+            47789,
+            54395
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 26,
+      "expected_int": 55,
+      "response_int": 55,
+      "is_correct": true,
+      "text_length": 47531,
+      "has_repetition": true,
+      "patterns_found": 3,
+      "most_frequent_pattern": {
+        "text": ",thetotalnumberissum_{m∈a}2^{m-1}",
+        "length": 33,
+        "occurrences": 6,
+        "positions": [
+          3153,
+          6555,
+          7420,
+          21846,
+          26975,
+          31216
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": ",thetotalnumberissum_{m∈a}2^{m-1}",
+          "length": 33,
+          "occurrences": 6,
+          "positions": [
+            3153,
+            6555,
+            7420,
+            21846,
+            26975,
+            31216
+          ]
+        },
+        {
+          "text": ",thetotalnumberissum_{m∈a}2^{m-1}.",
+          "length": 34,
+          "occurrences": 5,
+          "positions": [
+            3153,
+            6555,
+            7420,
+            26975,
+            31216
+          ]
+        },
+        {
+          "text": "boblistsallfinitenonemptysetsb",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            46,
+            15735,
+            30953,
+            34010,
+            44783
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 27,
+      "expected_int": 699,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 47264,
+      "has_repetition": true,
+      "patterns_found": 3,
+      "most_frequent_pattern": {
+        "text": "to1,theresultingnumberisdivisibleby7",
+        "length": 36,
+        "occurrences": 8,
+        "positions": [
+          96,
+          783,
+          1681,
+          11353,
+          13355,
+          13877,
+          15594,
+          42902
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "to1,theresultingnumberisdivisibleby7",
+          "length": 36,
+          "occurrences": 8,
+          "positions": [
+            96,
+            783,
+            1681,
+            11353,
+            13355,
+            13877,
+            15594,
+            42902
+          ]
+        },
+        {
+          "text": "theresultingnumberisdivisibleby7,",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            3135,
+            4619,
+            11357,
+            13359,
+            42906
+          ]
+        },
+        {
+          "text": "theresultingnumberisdivisibleby7.",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            100,
+            787,
+            1685,
+            5257,
+            15598
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 28,
+      "expected_int": 127,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 65593,
+      "has_repetition": true,
+      "patterns_found": 18,
+      "most_frequent_pattern": {
+        "text": "whentrestsontheoutsideofs,itisexternallytangent",
+        "length": 47,
+        "occurrences": 14,
+        "positions": [
+          9791,
+          9956,
+          10121,
+          10221,
+          10305,
+          10455,
+          10534,
+          10719,
+          10954,
+          12913,
+          12992,
+          14703,
+          14782,
+          50729
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "whentrestsontheoutsideofs,itisexternallytangent",
+          "length": 47,
+          "occurrences": 14,
+          "positions": [
+            9791,
+            9956,
+            10121,
+            10221,
+            10305,
+            10455,
+            10534,
+            10719,
+            10954,
+            12913,
+            12992,
+            14703,
+            14782,
+            50729
+          ]
+        },
+        {
+          "text": "isperpendiculartotheplaneofthecircle",
+          "length": 36,
+          "occurrences": 13,
+          "positions": [
+            1356,
+            1848,
+            2582,
+            4153,
+            4500,
+            8857,
+            26129,
+            29396,
+            30941,
+            46154,
+            52210,
+            62006,
+            63691
+          ]
+        },
+        {
+          "text": "whentrestsontheoutsideofs,itisexternallytangenttosalongacirclewithradiusr_",
+          "length": 74,
+          "occurrences": 12,
+          "positions": [
+            9956,
+            10121,
+            10221,
+            10305,
+            10455,
+            10534,
+            10719,
+            10954,
+            12913,
+            12992,
+            14703,
+            14782
+          ]
+        },
+        {
+          "text": "\"whentrestsontheoutsideofs,itisexternallytangenttosalongacirclewithradiusr_",
+          "length": 75,
+          "occurrences": 8,
+          "positions": [
+            9955,
+            10120,
+            10220,
+            10304,
+            10454,
+            10718,
+            10953,
+            14702
+          ]
+        },
+        {
+          "text": ":\"whentrestsontheoutsideofs,itisexternallytangenttosalongacircle",
+          "length": 64,
+          "occurrences": 8,
+          "positions": [
+            9789,
+            9954,
+            10119,
+            10219,
+            10453,
+            10717,
+            10952,
+            14701
+          ]
+        },
+        {
+          "text": "theaxisisperpendiculartotheplane",
+          "length": 32,
+          "occurrences": 8,
+          "positions": [
+            1349,
+            1841,
+            4493,
+            26122,
+            28096,
+            29389,
+            29914,
+            52203
+          ]
+        },
+        {
+          "text": "theaxisisperpendiculartotheplaneofthecircle",
+          "length": 43,
+          "occurrences": 6,
+          "positions": [
+            1349,
+            1841,
+            4493,
+            26122,
+            29389,
+            52203
+          ]
+        },
+        {
+          "text": "torus,theaxisisperpendiculartotheplane",
+          "length": 38,
+          "occurrences": 6,
+          "positions": [
+            1343,
+            4487,
+            26116,
+            28090,
+            29383,
+            52197
+          ]
+        },
+        {
+          "text": "distance6fromthecenterofthecircle",
+          "length": 33,
+          "occurrences": 6,
+          "positions": [
+            1225,
+            1541,
+            3213,
+            12839,
+            25934,
+            26894
+          ]
+        },
+        {
+          "text": "revolvingacirclewithradius3aroundanaxisintheplaneofthecirclethatisadistance6fromthecenterofthecircle",
+          "length": 100,
+          "occurrences": 5,
+          "positions": [
+            1158,
+            1474,
+            3146,
+            12772,
+            25867
+          ]
+        },
+        {
+          "text": "distancetotheaxisisequaltothedistancefromtheaxistotheoriginalc",
+          "length": 62,
+          "occurrences": 5,
+          "positions": [
+            32440,
+            34658,
+            35799,
+            38645,
+            49456
+          ]
+        },
+        {
+          "text": "pointswhosedistancetotheaxisisequaltothedistancefromthe",
+          "length": 55,
+          "occurrences": 5,
+          "positions": [
+            32429,
+            35788,
+            38634,
+            44301,
+            49445
+          ]
+        },
+        {
+          "text": "torus,theaxisisperpendiculartotheplaneofthecircle",
+          "length": 49,
+          "occurrences": 5,
+          "positions": [
+            1343,
+            4487,
+            26116,
+            29383,
+            52197
+          ]
+        },
+        {
+          "text": "theequationis(sqrt(x^2+y^2)-r)^2+z^2",
+          "length": 36,
+          "occurrences": 5,
+          "positions": [
+            1044,
+            9091,
+            24837,
+            25012,
+            52249
+          ]
+        },
+        {
+          "text": "theoriginalcircle'spointwiththesamex",
+          "length": 36,
+          "occurrences": 5,
+          "positions": [
+            20422,
+            38695,
+            39539,
+            41828,
+            49506
+          ]
+        },
+        {
+          "text": "sexternallytangentalongacircle",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            283,
+            356,
+            9351,
+            50758,
+            64054
+          ]
+        },
+        {
+          "text": "externallytangentalongacircle.",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            9352,
+            18367,
+            54641,
+            62224,
+            64055
+          ]
+        },
+        {
+          "text": "thedistancefromthex-axisis|z|,",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            19195,
+            20356,
+            20572,
+            21118,
+            22133
+          ]
+        }
+      ]
+    },
+    {
+      "entry_index": 29,
+      "expected_int": 902,
+      "response_int": null,
+      "is_correct": false,
+      "text_length": 85382,
+      "has_repetition": true,
+      "patterns_found": 13,
+      "most_frequent_pattern": {
+        "text": "mustbefullyoccupiedwithwhite,so",
+        "length": 31,
+        "occurrences": 10,
+        "positions": [
+          42045,
+          42247,
+          48403,
+          68181,
+          69142,
+          74981,
+          75131,
+          75369,
+          83575,
+          83691
+        ]
+      },
+      "all_patterns": [
+        {
+          "text": "mustbefullyoccupiedwithwhite,so",
+          "length": 31,
+          "occurrences": 10,
+          "positions": [
+            42045,
+            42247,
+            48403,
+            68181,
+            69142,
+            74981,
+            75131,
+            75369,
+            83575,
+            83691
+          ]
+        },
+        {
+          "text": "isoccupiedwithcolordifferentfrom",
+          "length": 32,
+          "occurrences": 8,
+          "positions": [
+            76878,
+            76946,
+            77069,
+            77151,
+            77677,
+            77724,
+            79114,
+            79180
+          ]
+        },
+        {
+          "text": "isoccupiedwithcolordifferentfromwhite",
+          "length": 37,
+          "occurrences": 6,
+          "positions": [
+            76878,
+            76946,
+            77677,
+            77724,
+            79114,
+            79180
+          ]
+        },
+        {
+          "text": "isoccupied,allitscellsmustbeoccupied",
+          "length": 36,
+          "occurrences": 6,
+          "positions": [
+            28342,
+            29478,
+            29611,
+            30432,
+            31993,
+            42922
+          ]
+        },
+        {
+          "text": "columnhasmixedcolors,violation",
+          "length": 30,
+          "occurrences": 6,
+          "positions": [
+            10218,
+            12920,
+            25895,
+            26249,
+            50396,
+            82229
+          ]
+        },
+        {
+          "text": "nocolumnviolation,sonooverallviolation",
+          "length": 38,
+          "occurrences": 5,
+          "positions": [
+            10698,
+            22182,
+            51884,
+            77583,
+            83202
+          ]
+        },
+        {
+          "text": "occupied,allitscellsmustbeoccupied,",
+          "length": 35,
+          "occurrences": 5,
+          "positions": [
+            29480,
+            29613,
+            30434,
+            31995,
+            70468
+          ]
+        },
+        {
+          "text": "hasadefinedcolorandcdoesn'tmatchit",
+          "length": 34,
+          "occurrences": 5,
+          "positions": [
+            8267,
+            8313,
+            9386,
+            57224,
+            57270
+          ]
+        },
+        {
+          "text": ",socolumnhasmixedcolors,violation",
+          "length": 33,
+          "occurrences": 5,
+          "positions": [
+            10215,
+            12917,
+            26246,
+            50393,
+            82226
+          ]
+        },
+        {
+          "text": "allcellsincolumnjmustbeoccupied",
+          "length": 31,
+          "occurrences": 5,
+          "positions": [
+            29197,
+            31365,
+            34077,
+            34759,
+            43301
+          ]
+        },
+        {
+          "text": "itmustbefullyoccupiedwithwhite,",
+          "length": 31,
+          "occurrences": 5,
+          "positions": [
+            48186,
+            68179,
+            72165,
+            74979,
+            75129
+          ]
+        },
+        {
+          "text": ",thenallitscellsmustbeoccupied",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            24849,
+            28247,
+            30534,
+            59538,
+            60870
+          ]
+        },
+        {
+          "text": "anyoccupiedcellforcestheentire",
+          "length": 30,
+          "occurrences": 5,
+          "positions": [
+            39120,
+            42393,
+            45149,
+            47695,
+            56124
+          ]
+        }
+      ]
+    }
+  ]
+}
